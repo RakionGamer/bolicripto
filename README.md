@@ -3,7 +3,7 @@
 <img width="1920" height="1080" alt="bolicripto" src="https://github.com/user-attachments/assets/500009f1-457c-4897-b492-596c71a7a8c2" />
 
 ### 🚀 Características
-- Conversión instantánea dólar **BCV ↔ Binance**
+- Conversión instantánea dólar **BCV ↔ BinanceP2P**
 - Actualización en tiempo real
 - Interfaz simple y ligera
 - Compatible con Android y iOS
