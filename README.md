@@ -1,6 +1,7 @@
 ## 📱 BoliCripto
 
-<img width="1920" height="1080" alt="bolicripto" src="https://github.com/user-attachments/assets/500009f1-457c-4897-b492-596c71a7a8c2" />
+![bolicripto](https://github.com/user-attachments/assets/abd1aea4-c424-431f-8f33-04406e92270a)
+
 
 ### 🚀 Características
 - Conversión instantánea dólar **BCV ↔ BinanceP2P**
