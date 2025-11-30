@@ -12,7 +12,6 @@
 ### 🛠️ Tecnologías
 - **React Native**
 - **Expo**
-- **JavaScript**
 - **API (Binance / BCV)**
 
 ### 📦 Instalación
